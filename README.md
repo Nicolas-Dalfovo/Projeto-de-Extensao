@@ -5,3 +5,5 @@ Este repositório contém o código-fonte do site pessoal de uma professora part
 
 ### Objetivo
 Criar uma página web profissional, clara e responsiva, que ajude a divulgar o trabalho e impacto na vida dos alunos da professora e facilite a comunicação com novos alunos.
+
+#### Funcionalidades
