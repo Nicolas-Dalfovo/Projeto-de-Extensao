@@ -11,4 +11,4 @@ Página inicial com apresentação pessoal
 
 Página com fotos e vídeos da escola
 
-Página com fotos e vídeos dea eventos e viagem realizadas pela escola
+Página com fotos e vídeos dea eventos e viagens realizadas pela escola
