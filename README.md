@@ -16,11 +16,3 @@ Página com fotos e vídeos dea eventos e viagens realizadas pela escola
 Link para redes sociais
 
 Design responsivo para dispositivos móveis
-
-
-## Status do Projeto
-V Coleta de fotos
-
-V Entrevista com a Professora
-
-V Coleta de links para redes sociais
