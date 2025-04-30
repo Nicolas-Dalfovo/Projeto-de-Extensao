@@ -7,3 +7,8 @@ Este repositório contém o código-fonte do site pessoal de uma professora part
 Criar uma página web profissional, clara e responsiva, que ajude a divulgar o trabalho e impacto na vida dos alunos da professora e facilite a comunicação com novos alunos.
 
 ## Funcionalidades
+Página inicial com apresentação pessoal
+
+Página com fotos e vídeos da escola
+
+Página com fotos e vídeos dea eventos e viagem realizadas pela escola
