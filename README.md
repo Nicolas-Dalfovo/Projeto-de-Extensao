@@ -12,3 +12,7 @@ Página inicial com apresentação pessoal
 Página com fotos e vídeos da escola
 
 Página com fotos e vídeos dea eventos e viagens realizadas pela escola
+
+Link para redes sociais
+
+Design responsivo para dispositivos móveis
